@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+==================================================
+🚀 Morphe CMS Backend Server Started
+==================================================
+📡 Server URL: http://localhost:3001
+📊 Health Check: http://localhost:3001/api/health
+🌍 Environment: development
+==================================================
+👉 Press Ctrl+C to stop
+
